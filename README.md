@@ -28,5 +28,4 @@ To fly the aeroplane, hold the mouse button. To land the aeroplane successfully,
 - Track and display flying time.
 - Option to restart the game after a successful landing.
 
-## License
-Enjoy playing the Aeroplane Game! If you have any feedback or suggestions, feel free to reach out to the author.
+*Enjoy playing the Aeroplane Game! If you have any feedback or suggestions, feel free to reach out to me.*
